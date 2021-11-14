@@ -22,3 +22,9 @@ google-drive-ocamlfuse $remoteDir
 rsync -avh ~/seu/diretorio/origem $remoteDir --delete
 echo "Backup realizado com sucesso!"
 ```
+
+## Execução
+
+```
+sudo sh script.sh
+```
