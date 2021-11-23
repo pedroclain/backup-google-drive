@@ -19,5 +19,5 @@ mkdir -p ~/backup/google-drive
 ## Execução
 
 ```
-sudo sh script.sh
+sudo sh script-backup.sh
 ```
